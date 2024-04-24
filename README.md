@@ -25,7 +25,8 @@
 
 ### Note 📝
 
-Please do not misuse or copy the full projects. These projects are intended for learning purposes and contributing to improvement. Feel free to explore the codebase, learn from it, and contribute to making it better. Let's grow together as a community of developers!
+Please refrain from using these projects for academic or professional submissions. They are intended for learning purposes and contributing to improvement. Feel free to explore the codebase, learn from it, and contribute to making it better. Let's grow together as a community of developers!
+
 
 <!---
 himal7070/himal7070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

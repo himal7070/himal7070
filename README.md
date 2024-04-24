@@ -20,6 +20,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/himal-aryal-366903304/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook)](https://www.facebook.com/himalaryal321)
 
+
+
+### Note 📝
+
+Please do not misuse or copy the full projects. These projects are intended for learning purposes and contributing to improvement. Feel free to explore the codebase, learn from it, and contribute to making it better. Let's grow together as a community of developers!
+
 <!---
 himal7070/himal7070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

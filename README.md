@@ -5,8 +5,10 @@
 ### About Me
 
 🌟 I'm currently pursuing my degree in ICT with a focus on software development, eager to apply my knowledge and skills in real-world projects.
+
 🚀 I have experience with a variety of programming languages and technologies, including JavaScript, HTML, CSS, React.js, Node.js, C#, Python, MSSQL, and MySQL.
-💼 I've worked on several public open-source projects, honing my skills and contributing to the developer community.
+
+💼 I've worked on several public open-source projects, school projects, group projects, and individual projects honing my skills and contributing to the developer community.
 
 💡 I'm enthusiastic about learning new technologies and exploring different facets of software development, including AI.
 

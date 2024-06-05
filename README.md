@@ -8,9 +8,11 @@
 
 🚀 I have experience with a variety of programming languages and technologies, including JavaScript, HTML, CSS, React.js, Node.js, C#, Python, MSSQL, and MySQL.
 
-💼 I've worked on several public open-source projects, school projects, group projects, and individual projects honing my skills and contributing to the developer community.
+💼 I've worked on a variety of projects, including public open-source project, school projects, group projects, and individual projects honing my skills and contributing to the developer community.
 
-💡 I'm enthusiastic about learning new technologies and exploring different facets of software development, including AI.
+💡 I'm enthusiastic about learning new technologies and exploring different facets of software development. Additionally, I have worked on AI projects,
+											further expanding my skill set and knowledge in the field of Artificial Intelligence (AI).
+
 
 ### Tech Stack
 
